@@ -1,9 +1,5 @@
-# Pretty Simple Web server written in Node.js
+# Hecmathlon
 
-You can use this repository as a template for your repository or copy the files into your repository manually
+### In this project we create a webpage with HTML and Javascript and we display some result based on what the user want to see.
 
-1. Open a new terminal (eg. in VS Code when your repository's directory opened)
-2. Run with the following command: `node backend/server.js` (Make sure that you are in the right directory.)
-3. If you don't need it stop it with `Control + C` keycommand.
-
-You can write your frontend code (`HTML, CSS, JS`) into the `frontend` directory.
+### We work with HTML and Javascript. We refactor our code to avoid using loops and if statements.
